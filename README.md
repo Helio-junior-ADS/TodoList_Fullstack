@@ -1,5 +1,13 @@
 # TodoList_Fullstack
 
+![Screenshot_5](https://user-images.githubusercontent.com/64769193/233659409-1eb2dd68-b716-44d2-9d11-6eef3b7a9a9b.png)
+![Screenshot_6](https://user-images.githubusercontent.com/64769193/233659542-14dbd682-5503-4c21-ad4e-5bf892594f59.png)
+![Screenshot_2](https://user-images.githubusercontent.com/64769193/233659693-72a574e2-e707-446e-a777-94143c50938a.png)
+![Screenshot_3](https://user-images.githubusercontent.com/64769193/233659787-c5443bc1-e77f-4344-9bb7-2656b2823456.png)
+![Screenshot_4](https://user-images.githubusercontent.com/64769193/233660063-29626b0f-4eb8-4a28-ace1-65bc24f9b940.png)
+
+
+
 # Sobre o projeto
 ## Projeto desenvolvido para unir estudo de Frontend com backend. Um sistema de tarefas, na qual o usuário pode inserir, atualizar e deletar, havendo também a possibilidade de selecionar o status da tarefa (CONCLUÍDO, EM ANDAMENTO OU PENDENTE). Não foi usado framework no script, utilizado apenas o vanila para o código. Nenhum processador de CSS também foi usado. O foco desse projeto foi estudar o código HTML, CSS, JS e SQL ao máximo.
 
